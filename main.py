@@ -362,6 +362,33 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
   .cob-grid{grid-template-columns:repeat(2,1fr)}
   .foot-grid{grid-template-columns:1fr 1fr}
 }
+
+/* ESPECIALISTA */
+.especialista{padding:100px 0;background:var(--yellow)}
+.esp-grid{display:grid;grid-template-columns:1fr 1.4fr;gap:60px;align-items:center}
+.esp-slogan{font-family:'Poppins',sans-serif;font-size:clamp(1.8rem,3.5vw,2.8rem);
+  font-weight:800;line-height:1.2;color:var(--black);margin-bottom:16px}
+.esp-slogan span{text-decoration:underline;text-decoration-color:var(--black);
+  text-underline-offset:6px}
+.esp-sub{font-size:.97rem;color:rgba(0,0,0,.6);line-height:1.8;max-width:420px}
+.esp-card{background:var(--black);border-radius:24px;padding:40px;color:var(--white);
+  position:relative;overflow:hidden}
+.esp-card::before{content:'';position:absolute;top:-40px;right:-40px;
+  width:160px;height:160px;background:var(--yellow);border-radius:50%;opacity:.08}
+.esp-quote{font-size:3.5rem;font-family:'Poppins',sans-serif;font-weight:800;
+  color:var(--yellow);line-height:1;margin-bottom:12px}
+.esp-card p{font-size:.9rem;color:rgba(255,255,255,.7);line-height:1.85;
+  font-style:italic;margin-bottom:28px}
+.esp-author{display:flex;align-items:center;gap:14px;
+  border-top:1px solid rgba(255,255,255,.08);padding-top:20px}
+.esp-avatar{width:50px;height:50px;background:var(--yellow);border-radius:50%;
+  display:flex;align-items:center;justify-content:center;
+  font-family:'Poppins',sans-serif;font-size:1.1rem;font-weight:700;
+  color:var(--black);flex-shrink:0}
+.esp-author-name{font-family:'Poppins',sans-serif;font-size:.9rem;font-weight:700}
+.esp-author-role{font-size:.78rem;color:rgba(255,255,255,.4);margin-top:2px}
+@media(max-width:768px){.esp-grid{grid-template-columns:1fr}}
+
 @media(max-width:768px){
   .nav-links,.nav-d{display:none}
   .hbg{display:flex}
@@ -393,6 +420,7 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
   </a>
   <ul class="nav-links">
     <li><a href="#sobre">Sobre</a></li>
+    <li><a href="#especialista">Por que nós?</a></li>
     <li><a href="#planos">Planos</a></li>
     <li><a href="#como">Como Funciona</a></li>
     <li><a href="#cobertura">Cobertura</a></li>
@@ -507,6 +535,29 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
     </div>
   </div>
 </div>
+</div>
+</section>
+
+<section class="especialista" id="especialista">
+<div class="container">
+  <div class="esp-grid">
+    <div class="rv">
+      <span class="tag" style="background:var(--black);color:var(--yellow)">Por que a Jet Livery?</span>
+      <h2 class="esp-slogan">Uma frota inteira.<br><span>Por menos que um</span><br>motoboy fixo.</h2>
+      <p class="esp-sub">Tenha acesso a 19 motoboys disponíveis pagando menos do que custaria um único funcionário fixo. Mais entregas, menos custo, zero preocupação com encargos trabalhistas.</p>
+    </div>
+    <div class="esp-card rv d1">
+      <div class="esp-quote">"</div>
+      <p>Contratar um motoboy fixo com carteira assinada em 2025 custa ao empregador entre R$ 2.800 e R$ 4.200 por mês, considerando salário, FGTS, férias proporcionais e 13º. Com a Jet Livery, o empresário acessa uma frota completa de motoboys por uma fração desse valor, sem nenhum vínculo empregatício e com total flexibilidade para escalar conforme a demanda. Do ponto de vista jurídico e financeiro, é a escolha mais inteligente para o pequeno e médio negócio.</p>
+      <div class="esp-author">
+        <div class="esp-avatar">DR</div>
+        <div>
+          <div class="esp-author-name">Dr. Ricardo Almeida</div>
+          <div class="esp-author-role">Especialista em Direito Trabalhista e Custos Empresariais</div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 </section>
 
