@@ -399,7 +399,7 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
     <li><a href="#faq">FAQ</a></li>
     <li><a href="#contato">Contato</a></li>
   </ul>
-  <a href="https://wa.me/5551992516345?text=Ol%C3%A1!%20Vim%20pelo%20site!" class="btn btn-wa nav-d" target="_blank" rel="noopener">
+  <a href="https://wa.me/5551992516346?text=Ol%C3%A1!%20Vim%20pelo%20site!" class="btn btn-wa nav-d" target="_blank" rel="noopener">
     <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
     WhatsApp
   </a>
@@ -415,7 +415,7 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
   <a href="#cobertura">Cobertura</a>
   <a href="#faq">FAQ</a>
   <a href="#contato">Contato</a>
-  <a href="https://wa.me/5551992516345?text=Ol%C3%A1!%20Vim%20pelo%20site!" class="btn btn-wa" target="_blank" rel="noopener">
+  <a href="https://wa.me/5551992516346?text=Ol%C3%A1!%20Vim%20pelo%20site!" class="btn btn-wa" target="_blank" rel="noopener">
     <svg viewBox="0 0 24 24" style="width:18px;height:18px;fill:#fff"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
     Chamar no WhatsApp
   </a>
@@ -431,7 +431,7 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
         <h1 class="hero-title">Na velocidade<br>que você <span class="hl">precisa</span></h1>
         <p class="hero-sub">Tele-entrega humanizada e eficiente para restaurantes, mercados, farmácias e negócios locais. Planos semanais que crescem com sua demanda.</p>
         <div class="hero-btns">
-          <a href="https://wa.me/5551992516345?text=Ol%C3%A1!%20Quero%20contratar%20a%20Jet%20Livery!" class="btn btn-wa" target="_blank" rel="noopener">
+          <a href="https://wa.me/5551992516346?text=Ol%C3%A1!%20Quero%20contratar%20a%20Jet%20Livery!" class="btn btn-wa" target="_blank" rel="noopener">
             <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
             Falar no WhatsApp
           </a>
@@ -522,7 +522,7 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
     <div class="cob-card rv d2"><span class="cob-ico">📍</span><h4>Imbé</h4><p>Cobertura total na cidade vizinha, com tempo de resposta rápido.</p></div>
     <div class="cob-card rv d3"><span class="cob-ico">📍</span><h4>Osório</h4><p>Atendimento disponível sob consulta para demandas específicas.</p></div>
   </div>
-  <p class="cob-note rv">Não encontrou sua cidade? <a href="https://wa.me/5551992516345" target="_blank" style="color:var(--yellow)">Fale conosco</a> e verificamos a disponibilidade.</p>
+  <p class="cob-note rv">Não encontrou sua cidade? <a href="https://wa.me/5551992516346" target="_blank" style="color:var(--yellow)">Fale conosco</a> e verificamos a disponibilidade.</p>
 </div>
 </section>
 
@@ -545,7 +545,7 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
         <li class="plan-feat"><span class="chk">✓</span>Suporte via WhatsApp</li>
         <li class="plan-feat"><span class="chk">✓</span>App de rastreamento</li>
       </ul>
-      <a href="https://wa.me/5551992516345?text=Ol%C3%A1!%20Tenho%20interesse%20no%20*Plano%20Start*!" class="btn btn-outline" style="width:100%" target="_blank" rel="noopener">Escolher Plano Start</a>
+      <a href="https://wa.me/5551992516346?text=Ol%C3%A1!%20Tenho%20interesse%20no%20*Plano%20Start*!" class="btn btn-outline" style="width:100%" target="_blank" rel="noopener">Escolher Plano Start</a>
     </div>
     <div class="plan featured rv d2">
       <span class="plan-badge">⭐ Mais Popular</span>
@@ -560,7 +560,7 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
         <li class="plan-feat"><span class="chk">✓</span>Relatório semanal</li>
         <li class="plan-feat"><span class="chk">✓</span>App de rastreamento</li>
       </ul>
-      <a href="https://wa.me/5551992516345?text=Ol%C3%A1!%20Tenho%20interesse%20no%20*Plano%20Pro*!" class="btn btn-yellow" style="width:100%" target="_blank" rel="noopener">Escolher Plano Pro</a>
+      <a href="https://wa.me/5551992516346?text=Ol%C3%A1!%20Tenho%20interesse%20no%20*Plano%20Pro*!" class="btn btn-yellow" style="width:100%" target="_blank" rel="noopener">Escolher Plano Pro</a>
     </div>
     <div class="plan rv d3">
       <p class="plan-name">Growth</p>
@@ -574,7 +574,7 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
         <li class="plan-feat"><span class="chk">✓</span>Relatório detalhado</li>
         <li class="plan-feat"><span class="chk">✓</span>App de rastreamento</li>
       </ul>
-      <a href="https://wa.me/5551992516345?text=Ol%C3%A1!%20Tenho%20interesse%20no%20*Plano%20Growth*!" class="btn btn-dark" style="width:100%" target="_blank" rel="noopener">Escolher Plano Growth</a>
+      <a href="https://wa.me/5551992516346?text=Ol%C3%A1!%20Tenho%20interesse%20no%20*Plano%20Growth*!" class="btn btn-dark" style="width:100%" target="_blank" rel="noopener">Escolher Plano Growth</a>
     </div>
   </div>
   <p class="plan-note rv">* Os prazos e condições de entrega podem variar conforme região e disponibilidade.</p>
@@ -652,7 +652,7 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
       <h3>Pronto para começar?</h3>
       <p>Entre em contato agora e descubra como a Jet Livery pode transformar a logística do seu negócio em Tramandaí.</p>
       <div class="c-items">
-        <div class="c-item"><div class="c-icon">📱</div><div><strong>WhatsApp</strong><span>(51) 99251-6345</span></div></div>
+        <div class="c-item"><div class="c-icon">📱</div><div><strong>WhatsApp</strong><span>(51) 99251-6346</span></div></div>
         <div class="c-item"><div class="c-icon">✉️</div><div><strong>E-mail</strong><span>jetliveryentregas@gmail.com</span></div></div>
         <div class="c-item"><div class="c-icon">📍</div><div><strong>Endereço</strong><span>Coca Barcelos 13 – Tramandaí / RS</span></div></div>
       </div>
@@ -711,7 +711,7 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
     <div class="foot-col">
       <h5>Contato</h5>
       <ul>
-        <li><a href="https://wa.me/5551992516345" target="_blank" rel="noopener">📱 (51) 99251-6345</a></li>
+        <li><a href="https://wa.me/5551992516346" target="_blank" rel="noopener">📱 (51) 99251-6346</a></li>
         <li><a href="mailto:jetliveryentregas@gmail.com">✉️ jetliveryentregas@gmail.com</a></li>
         <li><a href="#contato">📍 Tramandaí – RS</a></li>
       </ul>
@@ -726,7 +726,7 @@ footer{background:#050505;color:var(--white);padding:60px 0 0}
 
 <div class="wa-float">
   <span class="wa-tip">Fale conosco agora!</span>
-  <a href="https://wa.me/5551992516345?text=Ol%C3%A1!%20Vim%20pelo%20site!" class="wa-btn" target="_blank" rel="noopener" aria-label="WhatsApp">
+  <a href="https://wa.me/5551992516346?text=Ol%C3%A1!%20Vim%20pelo%20site!" class="wa-btn" target="_blank" rel="noopener" aria-label="WhatsApp">
     <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
   </a>
 </div>
